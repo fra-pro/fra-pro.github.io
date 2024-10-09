@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Vision, La Sapienza University of Rome - <i>Oct. 2024 - Current</i>
+* Master's Degree in Artificial Intelligence and Robotics, La Sapienza University of Rome - <i>Oct. 2020 Oct. 2023</i>
+* Bachelor's Degree in Computer Engineering, Tor Vergata University of Rome - <i>Oct. 2016 Feb. 2020</i> 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Oct. 2023 - Oct. 2024: Junior research fellowship, La Sapienza University of Rome
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -47,7 +47,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
