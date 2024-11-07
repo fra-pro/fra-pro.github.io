@@ -2,7 +2,7 @@
 title: "Distance Estimation of Fixed Objects in Driving Environments"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/distance-estimation-of-fixed-objects-in-driving-environments
 excerpt: 'This paper is about estimating the distance of fixed traffic signs from a camera mounted on a moving vehicle.'
 date: 2023-10-06
 venue: "9th Scholar's Yearly Symposium of Technology, Engineering and Mathematics, SYSTEM 2023"

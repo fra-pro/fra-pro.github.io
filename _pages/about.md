@@ -8,13 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-
-![GAN Functioning](/images/gan_f.png){: .align-right width="300px"} 🧑🏻 I'm a first year PhD Student at the La Sapienza University of Rome. 
+<br>
+![GAN Functioning](/images/gan_f.png){: .align-right width="300px"} 🧑🏻 I'm a first year **PhD Student** at the La Sapienza University of Rome in the Alcor Lab
 
 [comment]: <> (My research interests are in Computer Vision, a particular focus to Earth Observation and Generative Models.)
-🔬 My research interest are in Earth Observation, Generative Models and Large Language Models.
+🔬 My research primarily focuses on understanding and boosting **geolocation** in the field of **Earth Observation**. I'm also interested in the use of **Generative Models** and **Large Language Models**
 
-💻 I'm currently working in the field of Computer Vision
+💻 I'm currently working in the field of **Computer Vision**
+
+<br>
+
+Some Projects
+======
+* **Ground-to-Aerial image matching for geospatial applications**
+  * Thesis project in **Computer Vision**, the work has been done in collaboration with the **ESA-φ-lab** of Frascati, Rome;
+  * Developed a **Neural Networks**-based architecture to match a query ground view image with a satellite one representing the same location, using **Python** and **TensorFlow**.
+* **Distance estimation of traffic signs in driving environment**
+  * Developed an offline **Neural Networks**-based architecture to estimate the distances to the traffic signs from a camera mounted on a car, using **Python** and **TensorFlow**.
+* **Covid-19 detection from chest x-ray**
+  * Developed a **Neural Networks**-based architecture to detect patients affected by COVID-19 through chest x-ray images, first training and testing three well-known networks and then developing two networks from scratch. The project has been implemented using **Python** and **TensorFlow**;
+  * Collected online accessible chest x-ray images to create an ad hoc dataset.
 
 
 <!-- A data-driven personal website
@@ -55,4 +68,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
-

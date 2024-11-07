@@ -2,7 +2,7 @@
 title: "Learning from Unlabelled data with Transformers: Domain Adaptation for Semantic Segmentation of High Resolution Aerial Images"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/learning-from-unlabelled-data-with-transformers
 excerpt: 'This paper is about generating the semantic segmentation of unlabeled satellite images.'
 date: 2024-10-01
 venue: 'IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium'

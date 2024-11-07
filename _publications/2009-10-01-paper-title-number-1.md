@@ -2,7 +2,7 @@
 title: "A semantic segmentation-guided approach for ground-to-aerial image matching"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/a-semantic-segmentation-guided-approach-for-ground-to-aerial-image-matching
 excerpt: 'Paper about Ground-to-Aerial Image Matching.'
 date: 2024-10-01
 venue: 'IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium'

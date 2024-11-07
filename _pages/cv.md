@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+Skills
+======
+* **Front end development:** HTML, CSS, Javascript;
+* **Back end development:** PHP, SQL, Node.js;
+* **Other languages:** C, C++, Python;
+* **Other:** Machine Learning Algorithms, Neural Networks, Deep Learning, Reinforcement Learning, Computer Vision, PyTorch, TensorFlow, Keras, OpenCV.
 
 Education
 ======
@@ -28,12 +34,6 @@ Work experience
 * Oct. 2020: **Web Developer**
   * Developed in team a food delivery website using **HTML**, **CSS**, **Vue.js**, **Node.js**.
 
-Skills
-======
-* **Front end development:** HTML, CSS, Javascript;
-* **Back end development:** PHP, SQL, Node.js;
-* **Other languages:** C, C++, Python;
-* **Other:** Machine Learning Algorithms, Neural Networks, Deep Learning, Reinforcement Learning, Computer Vision, PyTorch, TensorFlow, Keras, OpenCV.
 
 Projects
 ======
