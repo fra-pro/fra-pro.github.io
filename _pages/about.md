@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 <br>
 ![GAN Functioning](/images/gan_f.png){: .align-right width="300px"} 🧑🏻 I'm a first year **PhD Student** at the La Sapienza University of Rome in the Alcor Lab
 

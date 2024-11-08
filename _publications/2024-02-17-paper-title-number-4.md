@@ -19,5 +19,5 @@ bibtex: "bibtex: '@INPROCEEDINGS{10641541,<br/>
   keywords={Machine Learning; Deep Learning; Yolo; Autonomous Driving},<br/>
   doi={}}'"
 ---
-
+<style>body {text-align: justify}</style>
 <i>Autonomous driving is a highly relevant topic today, particularly among major car manufacturers attempting to lead in technological innovation and enhance driving safety. An autonomous vehicle must possess the capability to sense its environment and navigate without human intervention. Thus, it serves as both a driver support system and, in some cases, a substitute. A crucial aspect involves identifying the positions of pedestrians, traffic signs, traffic lights, and other vehicles while computing distances from them. This enables the vehicle to emit alerts to the driver in potentially dangerous situations, such as impending obstacles due to external factors or driver distraction. In this paper, we introduce an approach for identifying traffic signs and determining the distance from them. Our method utilizes the YOLOv4 network for identification and a customized network for distance computation. This integration of AI technologies facilitates the timely detection of hazards and enables proactive alert mechanisms, thereby advancing the capabilities of autonomous vehicles and enhancing driving safety.</i>
