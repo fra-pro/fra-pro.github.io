@@ -20,5 +20,5 @@ bibtex: '@INPROCEEDINGS{10642526,<br/>
   keywords={Accuracy;Satellites;Image matching;Semantic segmentation;Semantics;Streaming media;Feature extraction;Earth Observation data;Ground-to-aerial image matching;Semantic segmentation;Data fusion},<br/>
   doi={10.1109/IGARSS53475.2024.10642526}}'
 ---
-<style>body {text-align: justify}</style>
+
 <i>Nowadays the accurate geo-localization of ground-view images has an important role across domains as diverse as journalism, forensics analysis, transports, and Earth Observation. This work addresses the problem of matching a query ground-view image with the corresponding satellite image without GPS data. This is done by comparing the features from a ground-view image and a satellite one, innovatively leveraging the corresponding latter's segmentation mask through a three-stream Siamese-like network. The proposed method, Semantic Align Net (SAN), focuses on limited Field-of-View (FoV) and ground panorama images (images with a FoV of 360°). The novelty lies in the fusion of satellite images in combination with their semantic segmentation masks, aimed at ensuring that the model can extract useful features and focus on the significant parts of the images. This work shows how SAN through semantic analysis of images improves the performance on the unlabelled CVUSA dataset for all the tested FoVs.</i>

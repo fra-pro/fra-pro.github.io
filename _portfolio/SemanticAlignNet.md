@@ -4,7 +4,6 @@ excerpt: "<b>Neural Network-based model</b> implemented for the paper A Semantic
 collection: portfolio
 ---
 
-<style>body {text-align: justify}</style>
 In this project I built a **three-branches Nerual Networks-based model** for the ground-to-aerial image matching task. The code, available on my [GitHub](https://github.com/fra-pro), is implemented using **Python** and **TensorFlow**. This model refers to the paper [A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching](https://pro1944191.github.io/SemanticAlignNet/).
 
 ## Abstract

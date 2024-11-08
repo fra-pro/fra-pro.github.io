@@ -20,5 +20,5 @@ bibtex: '@INPROCEEDINGS{10641541,<br/>
   keywords={Earth;Adaptation models;Satellites;Image resolution;Semantic segmentation;Semantics;Geoscience and remote sensing;Semantic segmentation;Unlabelled data},<br/>
   doi={10.1109/IGARSS53475.2024.10641541}}'
 ---
-<style>body {text-align: justify}</style>
+
 <i>Data from satellites or aerial vehicles are most of the times unlabelled. Annotating such data accurately is difficult, requires expertise, and is costly in terms of time. Even if Earth Observation (EO) data were correctly labelled, labels might change over time. Learning from unlabelled data within a semi-supervised learning framework for segmentation of aerial images is challenging. In this paper, we develop a new model for semantic segmentation of unlabelled images, the Non-annotated Earth Observation Semantic Segmentation (NEOS) model. NEOS performs domain adaptation as the target domain does not have ground truth masks. The distribution inconsistencies between the target and source domains are due to differences in acquisition scenes, environment conditions, sensors, and times. Our model aligns the learned representations of the different domains to make them coincide. The evaluation results show that it is successful and outperforms other models for semantic segmentation of unlabelled data.</i>
