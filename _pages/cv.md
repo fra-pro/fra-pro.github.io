@@ -24,15 +24,15 @@ Education
 
 Work experience
 ======
-* Jan. 2024 - Oct. 2024: <b>Junior research fellowship</b>, La Sapienza University of Rome
+* <b>Junior research fellowship</b>, La Sapienza University of Rome - *Jan. 2024 - Oct. 2024*
   * Research about Ground-to-Aerial image matching task using <b>Neural Networks</b>, <b>Python</b>, <b>TensorFlow</b>, and <b>OpenCV</b>;
   * Implementation of a road object detection and tracking system for a traffic analysis pipeline, using <b>PyTorch</b>, <b>TensorFlow</b> and <b>OpenCV</b>.
 
-* Oct. 2019 - Oct. 2020: <b>Software and Web Developer</b>, Tor Vergata students racing team, formula SAE
+* <b>Software and Web Developer</b>, Tor Vergata students racing team, formula SAE - *Oct. 2019 - Oct. 2020*
   * Developed a unique online accessible calendar module, shared among all the team members, based on their permissions, using <b>HTML</b>, <b>CSS</b>, <b>Vue.js</b>, <b>Node.js</b>;
   * Projected a telemetry system to transfer data from the car to the base station.
 
-* Oct. 2020: **Web Developer**
+* **Web Developer**, *Oct. 2020*
   * Developed in team a food delivery website using **HTML**, **CSS**, **Vue.js**, **Node.js**.
 
 
